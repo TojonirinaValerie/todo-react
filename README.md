@@ -1,6 +1,7 @@
 # 📌ToDo-App
 
 Une application de gestion de tâches développée avec React JS, Tailwind CSS, TypeScript, Redux Toolkit et d'autres technologies.
+Live: [my-todo-app-33](https://my-todo-app-33.netlify.app/)
 
 ## 📝 Description
 
