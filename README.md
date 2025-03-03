@@ -41,13 +41,13 @@ Ce projet a pour principal objectif de mettre en pratique les connaissances en T
 Cloner le projet
 
 ```bash
-git clone <URL_DU_RÉPÔ>
+git clone https://github.com/TojonirinaValerie/todo-react.git
 ```
 
 Se rendre dans le dossier du projet
 
 ```bash
-cd tasks-app
+cd todo-react
 ```
 
 Installer les dépendances
